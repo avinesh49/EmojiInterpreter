@@ -1,0 +1,19 @@
+.App {
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+}
+
+body {
+  background-color: #fcd34d;
+  padding: 0;
+  max-width: 500px;
+  margin: auto;
+}
+input {
+  background-color: #fef3c7;
+  padding: 1rem;
+  width: 50%;
+  border: 1px solid black;
+  border-radius: 7px;
+  outline: none;
+}
